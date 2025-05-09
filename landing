@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mim Wallet — The New Fun Cold / Hot Wallet for Web3</title>
+    <meta name="description" content="Claim your airdrop. Learn crypto. Mim Wallet makes Web3 fun, secure and gamified." />
+    <meta name="author" content="Lovable" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="Mim Wallet — The New Fun Cold / Hot Wallet for Web3" />
+    <meta property="og:description" content="Claim your airdrop. Learn crypto. Mim Wallet makes Web3 fun, secure and gamified." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://mimwallet.xyz/lovable-uploads/66be1364-adfb-420b-9664-ec4fbdcad999.png" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@lovable_dev" />
+    <meta name="twitter:title" content="Mim Wallet — The New Fun Cold / Hot Wallet for Web3" />
+    <meta name="twitter:description" content="Claim your airdrop. Learn crypto. Mim Wallet makes Web3 fun, secure and gamified." />
+    <meta name="twitter:image" content="https://mimwallet.xyz/lovable-uploads/66be1364-adfb-420b-9664-ec4fbdcad999.png" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <!-- IMPORTANT: DO NOT REMOVE THIS SCRIPT TAG OR THIS VERY COMMENT! -->
+    <script src="https://cdn.gpteng.co/gptengineer.js" type="module"></script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
